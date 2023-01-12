@@ -1,6 +1,6 @@
 <h1>JSON, XML, YAML, HTML Processing Scripts</h1>
 
-A set of scripts to clean, transform, and visualize JSON, XML, YAML, and HTML files. \n
+A set of scripts to clean, transform, and visualize JSON, XML, YAML, and HTML files. <br>
 Requirements:
 Python 3.x
 beautifulsoup4
