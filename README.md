@@ -1,12 +1,12 @@
 <h1>JSON, XML, YAML, HTML Processing Scripts</h1>
 
-A set of scripts to clean, transform, and visualize JSON, XML, YAML, and HTML files.
+A set of scripts to clean, transform, and visualize JSON, XML, YAML, and HTML files. \n
 Requirements:
 Python 3.x
 beautifulsoup4
 matplotlib (if you want to visualize the data)
 
-Installation:
+Installing requirements:
 
     pip install beautifulsoup4 matplotlib
 
